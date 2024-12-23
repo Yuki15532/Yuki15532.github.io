@@ -12,7 +12,7 @@
         <pubDate>Tue, 10 Oct 2023 12:00:00 +0800</pubDate>
         
         <guid>https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/</guid>
-        <description>&lt;h3 id=&#34;web实验测试&#34;&gt;Web实验测试
+        <description>&lt;img src="https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/1716319489990.jpeg" alt="Featured image of post Web实验测试" /&gt;&lt;h3 id=&#34;web实验测试&#34;&gt;Web实验测试
 &lt;/h3&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
@@ -246,84 +246,116 @@
 &lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
 $$
  \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$&lt;p&gt;&lt;img src=&#34;https://yuki15532.github.io/1.png&#34;
-	
-	
-	
+$$&lt;p&gt;&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/1.png&#34;
+	width=&#34;1074&#34;
+	height=&#34;872&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/1_hu8375168549052616191.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/1_hu4939714322038954953.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image1&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;123&#34;
+		data-flex-basis=&#34;295px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/2.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/2.png&#34;
+	width=&#34;1267&#34;
+	height=&#34;658&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/2_hu13746095790574052998.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/2_hu11024978922951332576.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image2&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;192&#34;
+		data-flex-basis=&#34;462px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/3.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/3.png&#34;
+	width=&#34;1267&#34;
+	height=&#34;652&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/3_hu11790631355638226569.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/3_hu10147314362798044945.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image3&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;194&#34;
+		data-flex-basis=&#34;466px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/4.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/4.png&#34;
+	width=&#34;1271&#34;
+	height=&#34;707&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/4_hu4815265272096796682.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/4_hu13835815077238655853.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image4&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;431px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/5.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/5.png&#34;
+	width=&#34;1272&#34;
+	height=&#34;692&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/5_hu16558773915505300729.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/5_hu6064591645780339121.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image5&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;441px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/6.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/6.png&#34;
+	width=&#34;1288&#34;
+	height=&#34;724&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/6_hu7802731746177164208.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/6_hu4738170275061118433.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image6&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/7.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/7.png&#34;
+	width=&#34;2540&#34;
+	height=&#34;1217&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/7_hu7995618497059026763.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/7_hu6026174075251228633.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image7&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;208&#34;
+		data-flex-basis=&#34;500px&#34;
+	
 &gt;
-&lt;img src=&#34;https://yuki15532.github.io/8.png&#34;
-	
-	
-	
+&lt;img src=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/8.png&#34;
+	width=&#34;1403&#34;
+	height=&#34;874&#34;
+	srcset=&#34;https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/8_hu13146840110467056371.png 480w, https://yuki15532.github.io/p/web%E5%AE%9E%E9%AA%8C%E6%B5%8B%E8%AF%95/8_hu8382622894591270034.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image8&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;385px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
